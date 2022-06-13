@@ -1,0 +1,11 @@
+{
+  "name": "demo_page",
+  "version": "0.0.1",
+  "description": "demo page fot test railway app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moises Almonte",
+  "license": "ISC"
+}
